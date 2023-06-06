@@ -1,0 +1,60 @@
+
+body {
+  max-width: 40em;
+  margin: 0 auto;
+  font-size: 20px;
+  line-height: 30px;
+  background-color: #fff;
+  color: #444444; 
+  font-family: Avenir Next;/*Georgia;/*Menlo;*/
+}
+
+a {
+  color: #629af8; /*#f08080;*/
+  text-decoration: none; 
+  overflow-wrap: break-word;
+  word-wrap: break-word}
+a:hover {
+  color: #3C82F6;/*#cd5c5c;*/
+  text-decoration: none; }
+
+.pad {
+  padding: 15px;
+}
+.header a{
+  color: #629af8;
+  font-size: 40px;
+  font-weight: normal;
+  text-align: left;
+  text-decoration: none;
+}
+.h2 {
+  font-size: 26px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+.h3 {
+  font-size: 22px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+.menu {
+  color: #629af8;
+  font-size: 19px;
+  font-weight: normal;
+  text-align: left;
+  float: left;
+} 
+.date {
+  color: #CCCCCC;
+  font-size: 19px;
+  font-weight: normal;
+  text-align: right;
+  float: right;
+}
+.main-text {
+  font-size: 19px;
+  font-weight: normal;
+  text-align: left;
+}
+
