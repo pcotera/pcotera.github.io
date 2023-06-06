@@ -3,26 +3,26 @@ body {
   max-width: 40em;
   margin: 0 auto;
   font-size: 20px;
-  line-height: 30px;
+  line-height: 26px;
   background-color: #fff;
   color: #444444; 
-  font-family: Avenir Next;/*Georgia;/*Menlo;*/
+  font-family: Avenir Next;/*Menlo; Georgia;*/
 }
 
 a {
-  color: #629af8; /*#f08080;*/
+  color: #F34F4C;/*#629af8; /*#f08080;*/
   text-decoration: none; 
   overflow-wrap: break-word;
   word-wrap: break-word}
 a:hover {
-  color: #3C82F6;/*#cd5c5c;*/
+  color: #cd5c5c;/*#3C82F6;/*#cd5c5c;*/
   text-decoration: none; }
 
 .pad {
   padding: 15px;
 }
 .header a{
-  color: #629af8;
+  color: #F34F4C;
   font-size: 40px;
   font-weight: normal;
   text-align: left;
@@ -39,21 +39,21 @@ a:hover {
   text-transform: uppercase;
 }
 .menu {
-  color: #629af8;
-  font-size: 19px;
+  color: #F34F4C;
+  font-size: 18px;
   font-weight: normal;
   text-align: left;
   float: left;
 } 
 .date {
   color: #CCCCCC;
-  font-size: 19px;
+  font-size: 18px;
   font-weight: normal;
   text-align: right;
   float: right;
 }
 .main-text {
-  font-size: 19px;
+  font-size: 18px;
   font-weight: normal;
   text-align: left;
 }
