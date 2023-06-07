@@ -46,10 +46,10 @@ a:hover {
   float: left;
 } 
 .date {
-  color: #BBBBBB;
+  color: #CCCCCC;
   font-size: 18px;
   font-weight: normal;
-  text-align: right;
+  text-align: left;
 }
 .main-text {
   font-size: 18px;
