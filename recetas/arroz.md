@@ -8,7 +8,7 @@ Agregar sal al gusto.
 
 Poner a hervir y en cuanto hierva poner a fuego bajo. Cocinar tapado aprox 10min
 
-Revolver con tenedor en la olla, apagar el fuego y dejar tapado reposando
+Revolver con tenedor en la olla, apagar el fuego y dejar tapado reposando.
 
 
 
