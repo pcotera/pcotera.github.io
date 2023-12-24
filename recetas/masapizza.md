@@ -1,6 +1,6 @@
 # Pizza
 
-Receta de [el comidista](https://www.google.com/url?q=https%3A%2F%2Felcomidista.elpais.com%2Felcomidista%2F2016%2F06%2F22%2Freceta%2F1466595278_052559.html&sa=D&sntz=1&usg=AFQjCNELopZkyfkNpyhWoBgXQ15Mqtnl-Q), mezclar: 
+Receta de el comidista, mezclar: 
 
 - 500g de harina para pan o para pizza
 - 1.5g (1/2 tsp) de levadura disuelta en 300ml de agua tibia
@@ -11,7 +11,7 @@ Receta de [el comidista](https://www.google.com/url?q=https%3A%2F%2Felcomidista.
 
 Intentar esta: 
 
-[https://m.youtube.com/watch?v=G-jPoROGHGE](https://m.youtube.com/watch?v=G-jPoROGHGE)
+https://m.youtube.com/watch?v=G-jPoROGHGE
 
 Disolver para el poolish y dejar reposar en el refri 16-24h:
 

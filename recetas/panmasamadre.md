@@ -6,4 +6,6 @@
 - Formar en bola, reposar otras tres horas con un trapo húmedo encima.
 - Hornear 35 minutos a 445F con golpe de agua al inicio.
 
-Checar [este video](https://youtu.be/2FVfJTGpXnU) y [este otro](https://www.theperfectloaf.com/beginners-sourdough-bread/)
+Checar https://youtu.be/2FVfJTGpXnU 
+
+y https://www.theperfectloaf.com/beginners-sourdough-bread/

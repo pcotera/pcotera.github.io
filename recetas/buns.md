@@ -17,8 +17,6 @@
 - Barnizar con un huevo batido o tantita leche
 - Hornear a 375F por 15-18 minutos a que estén doraditos
 
-![[Buns2.png|300]]
-
 ---
 
 **From weissman:**
