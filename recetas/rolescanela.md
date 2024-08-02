@@ -17,7 +17,7 @@ Y luego la leche.
 Amasar la mezcla por un minuto para hacer una bola suave (va a estar pegajosa pero es OK) Ponerla dentro del bowl con aceite y cubierto con plástico. Dejar reposar 1.5 horas. 
 
 Mezclar: 
-- 150g de azucar morena
+- 150g de azucar morena (sólo 100g si llevan glaseado)
 - 2 tbsp de canela
 - 80g mantequilla derretida
 
@@ -29,9 +29,10 @@ Hornear a 375F por 25 minutos. Que se vean doraditos.
 
 Glaseado: 
 
+(primero disolver el queso crema en la leche)
 - 30g de queso crema
-- 30g azucar glass
 - 15ml leche entera
+- 30g azucar glass
 - 1/2 tsp vainilla
 - 10 gotas de jugo de limón
 
