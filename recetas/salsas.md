@@ -3,7 +3,7 @@
 Poner a tatemar:
 10-15 Chiles habaneros verdes 
 2-4 Tomates verdes medianos
-1/2 Cebolla o
+1/2 Cebolla ó
 2 Ajos medianos 
 
 Licuar todo con:
