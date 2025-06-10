@@ -9,3 +9,4 @@ git push -u origin main
 git status
 
 sleep 3
+exit
