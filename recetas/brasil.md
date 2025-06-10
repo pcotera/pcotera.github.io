@@ -10,13 +10,13 @@
 - Cocada suave con costra bruleé y helado de canela. 
 
 - Caipirinha Cotera: 
-	* Dos limones sin semilla medianos, quitar las 'tapas' y cortar primero en discos y luego en triángulos. 
-	* La medida para un copo americano son de dos a tres dedos de azúcar estándar (demerara).
-	* Tres dedos de cachaça.
-Poner los tríangulos de limones en el vaso mediano y agregar el azúcar, machacar unas veinte veces. 
-Poner hielo 3/4 del vaso grande y vaciar la mezcla de limón con azúcar
-Vaciar los tres dedos de cachaça
-Poner el vaso mediano encima del grande como shaker y agitar máximo veinte veces para no romper demasiado los limones. 
+	(Requiere un copo americano, un vaso mediano y un vaso grande)
+	* Cuatro limones medianos sin semilla (o dos bien grandes), quitar las 'tapas' y cortar primero en discos y luego en triángulos sin las venitas blancas. 
+	* Medir dos dedos de azucar estándar en un copo americano
+	* Poner los triángulos de limones en el vaso mediano y agregar el azúcar, machacar unas veinte veces. 
+	* Poner hielo 3/4 del vaso grande y vaciar la mezcla de limón con azúcar
+	* Medir ocho segundos de cachaça en un copo americano que van a ser como tres dedos. Vaciar en el vaso grande. 
+	* Poner el vaso mediano encima del grande como shaker y agitar máximo veinte veces para no romper demasiado los limones. 
 
 - Xeque-mate:
 	* Hacer un mate, poner agua casi a hervir y dejas la yerba mate por cinco minutos, como hacer un té. 
