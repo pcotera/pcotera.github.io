@@ -1,6 +1,6 @@
 # Tarta Tatin
 
-- 4 manzanas peladas en 8 trozos cada una
+- 4 manzanas peladas y cortadas en 8 trozos cada una
 - 60g azucar estandar
 - 50g mantequilla
 
