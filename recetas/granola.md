@@ -2,7 +2,7 @@ Granola casera
 
 Mezclar 1:1 algún tipo de aceite con algún tipo de endulzante, 
 
-Se recomienda aceite de coco con jarabe de agave. Aprox 1/4 ó 1/3 de taza de cada uno. 
+Se recomienda aceite de coco con jarabe de agave. Aprox 1/4 de taza de cada uno para 4 tazas de avena. 
 
 Bañar las hojuelas de avena con la mezcla anterior y agregar un poco de sal y de canela en polvo, mezclar bien. 
 
