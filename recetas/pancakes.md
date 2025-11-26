@@ -17,4 +17,10 @@ Poner en sartén a fuego medio bajo con tantita mantequilla en porciones de 1/4 
 
 ---
 
+## Conversion para Waffles: 
+
+- reduce 1–2 cucharadas de leche (opcional)
+- 2 tablespoons azúcar estándar
+- 3 tablespoons mantequilla derretida 
+- 1 tablespoon de maicena (opcional)
 
